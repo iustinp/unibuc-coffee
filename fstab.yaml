@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1585120.adobeaemcloud.com/bin/franklin.delivery/iustinp/unibuc-coffee/main"
+    url: "https://author-p130360-e1585120.adobeaemcloud.com/bin/franklin.delivery/iustinp/unibuc-coffee-xwalk/main"
     type: "markup"
     suffix: ".html"
