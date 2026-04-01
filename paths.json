@@ -1,32 +1,31 @@
 {
   "mappings": [
-    "/content/frescopa/:/content/unibuc-coffee/"
-    "/content/unibuc-coffee/:/",
-    "/content/unibuc-coffee/en/:/",
-    "/content/unibuc-coffee/metadata:/metadata.json",
-    "/content/unibuc-coffee/en/placeholders:/placeholders.json",
-    "/content/unibuc-coffee/en/locations/locationslist:/locations.json",
-    "/content/unibuc-coffee/es:/es",
-    "/content/unibuc-coffee/es/:/es/",
-    "/content/unibuc-coffee/es/placeholders:/placeholders.json",
-    "/content/unibuc-coffee/es/locations/locationslist:/es/locations.json",
-    "/content/unibuc-coffee/fr:/fr",
-    "/content/unibuc-coffee/fr/:/fr/",
-    "/content/unibuc-coffee/fr/placeholders:/placeholders.json",
-    "/content/unibuc-coffee/fr/locations/locationslist:/fr/locations.json",
-    "/content/unibuc-coffee/jp:/jp",
-    "/content/unibuc-coffee/jp/:/jp/",
-    "/content/unibuc-coffee/jp/placeholders:/placeholders.json",
-    "/content/unibuc-coffee/jp/locations/locationslist:/jp/locations.json",
-    "/content/unibuc-coffee/configuration:/.helix/config.json",
-    "/content/unibuc-coffee/headers:/.helix/headers.json",
-    "/content/unibuc-coffee/metadata:/metadata.json",
-    "/content/unibuc-coffee/configs:/configs.json",
-    "/content/unibuc-coffee/configs-dev:/configs-dev.json",
-    "/content/unibuc-coffee/configs-stage:/configs-stage.json"
+    "/content/frescopa/:/",
+    "/content/frescopa/en/:/",
+    "/content/frescopa/metadata:/metadata.json",
+    "/content/frescopa/en/placeholders:/placeholders.json",
+    "/content/frescopa/en/locations/locationslist:/locations.json",
+    "/content/frescopa/es:/es",
+    "/content/frescopa/es/:/es/",
+    "/content/frescopa/es/placeholders:/placeholders.json",
+    "/content/frescopa/es/locations/locationslist:/es/locations.json",
+    "/content/frescopa/fr:/fr",
+    "/content/frescopa/fr/:/fr/",
+    "/content/frescopa/fr/placeholders:/placeholders.json",
+    "/content/frescopa/fr/locations/locationslist:/fr/locations.json",
+    "/content/frescopa/jp:/jp",
+    "/content/frescopa/jp/:/jp/",
+    "/content/frescopa/jp/placeholders:/placeholders.json",
+    "/content/frescopa/jp/locations/locationslist:/jp/locations.json",
+    "/content/frescopa/configuration:/.helix/config.json",
+    "/content/frescopa/headers:/.helix/headers.json",
+    "/content/frescopa/metadata:/metadata.json",
+    "/content/frescopa/configs:/configs.json",
+    "/content/frescopa/configs-dev:/configs-dev.json",
+    "/content/frescopa/configs-stage:/configs-stage.json"
   ],
   "includes": [
-    "/content/unibuc-coffee/",
-    "/content/dam/unibuc-coffee/"
+    "/content/frescopa/",
+    "/content/dam/frescopa/"
   ]
 }
