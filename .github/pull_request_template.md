@@ -3,5 +3,5 @@ Please always provide the [GitHub issue(s)](../issues) your PR is for, as well a
 Fix #<gh-issue-id>
 
 Test URLs:
-- Before: https://main--frescopa--aem-showcase.aem.live/
-- After: https://<branch>--frescopa--aem-showcase.aem.live/
+- Before: https://main--unibuc-coffee--iustinp.aem.live/
+- After: https://branch--unibuc-coffee--iustinp.aem.live/
