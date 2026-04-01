@@ -1,5 +1,6 @@
 {
   "mappings": [
+    "/content/frescopa/:/content/unibuc-coffee/"
     "/content/unibuc-coffee/:/",
     "/content/unibuc-coffee/en/:/",
     "/content/unibuc-coffee/metadata:/metadata.json",
