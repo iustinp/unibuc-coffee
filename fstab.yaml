@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1585120.adobeaemcloud.com/bin/franklin.delivery/iustinp/unibuc-coffee/main"
+    url: "https://author-p190061-e1982485.adobeaemcloud.com/bin/franklin.delivery/iustinp/unibuc-coffee/main"
     type: "markup"
     suffix: ".html"
 folders:
